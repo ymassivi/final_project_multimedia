@@ -65,7 +65,7 @@ h1 .sub_title {
 	display: block;
 }
 
-.pic_container img {
+.picture img {
 	object-fit: cover;
 	object-position: 0 -17px;
 	width: 100%;
