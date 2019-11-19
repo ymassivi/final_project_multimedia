@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+  <meta charset="utf-8">
+  <title>Yannick Massivi ITMD 460 Final Project</title>
+  <link rel="stylesheet" href="style/normalize.css">
+  <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+  <header>
+    <h1 class="header_title">
+      ITMD 460
+      <div class="sub_header">Final Project</div>
+    </h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">week1_2</a></li>
+      <li><a href="week3_4.html">week3_4</a></li>
+      <li><a href="week5_6.html">week5_6</a></li>
+      <li><a href="week7_8.html">week7_8</a></li>
+      <li><a href="week9_10.html">week9_10</a></li>
+    </ul>
+  </nav>
+
+
+
+
+
+  </head>
