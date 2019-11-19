@@ -4,7 +4,7 @@ header {
 	top: 0;
 	left: 0;
 	right: 0;
-	background-color: blue;
+	background-color: ;
 	display: flex;
 	flex-direction: row;
 	height: 100px;
@@ -146,7 +146,7 @@ body {
 	margin-right: 0;
 	padding: 31.875px;
 	padding-bottom: 0;
-	background-color: cornsilk;
+	background-color: cyan;
 }
 
 p {
