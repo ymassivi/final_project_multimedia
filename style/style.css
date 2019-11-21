@@ -62,9 +62,6 @@ h1 {
 	font-weight: bold;
 }
 
-h1 .sub_title {
-	display: block;
-}
 
 img {
 	object-fit: cover;
@@ -72,13 +69,7 @@ img {
 	width: 100%;
 }
 
-.pic_container {
-	overflow: hidden;
-	padding: 0;
-	margin: 0;
-	width: 100px;
-	height: 100px;
-}
+
 
 h3 {
 	font-family: 'Roboto', sans-serif;
@@ -97,25 +88,6 @@ h4 {
 	display: block;
 }
 
-h5 {
-	font-family: 'Roboto', sans-serif;
-	font-size: 14.875px;
-	font-weight: 900;
-	line-height: 21.25px;
-	color: #5a6773;
-	margin-top: 12px;
-	margin-bottom: 0;
-}
-
-h5 span {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
-	font-size: 14px;
-	float: right;
-	color: black;
-	margin-bottom: 0;
-	margin-right: 57.05px;
-}
 
 footer {
 	width: 1083px;
@@ -149,6 +121,3 @@ body {
 	background-color: cyan;
 }
 
-p {
-	line-height: 21.25px;
-}
