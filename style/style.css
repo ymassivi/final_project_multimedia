@@ -68,6 +68,11 @@ img {
 	object-position: 0 -17px;
 	width: 100%;
 }
+video {
+	object-fit: cover;
+	object-position: 0 -17px;
+	width: 100%;
+}
 
 
 
